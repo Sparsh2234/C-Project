@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sparsh/CLionProjects/project1/BrowserHistory.h
+WebsiteData.h
+C:/Users/Sparsh/CLionProjects/project1/WebsiteData.h
+WebsiteList.h
+C:/Users/Sparsh/CLionProjects/project1/WebsiteList.h
+iostream
+-
+string
+-
+
+C:/Users/Sparsh/CLionProjects/project1/WebsiteData.h
+iostream
+-
+string
+-
+
+C:/Users/Sparsh/CLionProjects/project1/WebsiteList.h
+WebsiteData.h
+C:/Users/Sparsh/CLionProjects/project1/WebsiteData.h
+iostream
+-
+string
+-
+
+C:/Users/Sparsh/CLionProjects/project1/dequeaslisttest.cpp
+BrowserHistory.h
+C:/Users/Sparsh/CLionProjects/project1/BrowserHistory.h
+WebsiteData.h
+C:/Users/Sparsh/CLionProjects/project1/WebsiteData.h
+iostream
+-
+string
+-
+
